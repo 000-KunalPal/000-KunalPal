@@ -11,7 +11,7 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com).
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=nextjs)
+![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&color=informational&logo=nextjs)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
 ![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
