@@ -21,4 +21,4 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com).
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
-(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=000-KunalPal)](https://github.com/anuraghazra/github-readme-stats)
