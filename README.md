@@ -3,11 +3,6 @@ Kunal Pal!!!!!!!
 ## 👋 Hello! 
 Software engineer with 7+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
 
-## 📚 Writing
-Besides developing, I also run a [Youtube Channel](https://www.youtube.com).
-
-## 💻 Interesting Contributions
-
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
@@ -20,6 +15,3 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com).
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-
-## 📊 Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=000-KunalPal)](https://github.com/anuraghazra/github-readme-stats)
