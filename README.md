@@ -66,7 +66,7 @@ Here are the technologies I work with regularly.
 
 ### ✨ Featured Projects
 
-Here are some of the projects I'm most proud of.
+Here are some of the projects I have build.
 
 <details>
   <summary><b>🚀 ForgeFlow - AI Agent-Powered Application Builder</b></summary>
