@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/your-github-username">
-  <img src="https://i.imgur.com/bQyB1t2.png" alt="A cool banner image with code and AI elements">
+  <a href="https://github.com/000-KunalPal">
+  <img src="https://unsplash.com/illustrations/a-laptop-computer-sitting-on-top-of-a-desk-next-to-a-cup-of-coffee-Qqn9VFkdV6E" alt="A cool banner image with code and AI elements">
   </a>
 </div>
 
@@ -119,13 +119,13 @@ Here are some of the projects I'm most proud of.
 
 I believe in the power of community and enjoy contributing to open-source projects.
 
-- **vercel/next-forge:** Actively engaged in the development lifecycle by identifying an area for improvement, forking the repository, and submitting a pull request to enhance documentation clarity, which was successfully merged. `[Link to your PR]`
+- **vercel/next-forge:** Actively engaged in the development lifecycle by identifying an area for improvement, forking the repository, and submitting a pull request to enhance documentation clarity, which was successfully merged. `https://github.com/vercel/next-forge/pull/205`
 
 ---
 
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Kunal's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="Kunal's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=000-KunalPal&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Kunal's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000-KunalPal&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="Kunal's Top Languages"/>
 </div>
