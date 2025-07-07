@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/000-KunalPal">
-  <img src="banner.png" alt="A cool banner image with code and AI elements">
+  <img src="banner.png" alt="A cool banner image with code and AI elements" width="800">
   </a>
 </div>
 
