@@ -126,7 +126,5 @@ I believe in the power of community and enjoy contributing to open-source projec
 ### 📊 My GitHub Stats
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=000-KunalPal&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Kunal's GitHub Stats"/> -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=000-KunalPal&theme=radical&hide_border=false)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000-KunalPal&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="Kunal's Top Languages"/>
 </div>
