@@ -11,7 +11,9 @@
    <a href="mailto:kunal.pal.dev@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a> -->
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kunalpalportfolio.vercel.app)
+  <a href="https://kunalpalportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
