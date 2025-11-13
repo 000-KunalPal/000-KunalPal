@@ -1,124 +1,99 @@
-<div id="header" align="center">
-  <h1>
-    Hi there, I'm Kunal Pal 👋
-  </h1>
-  <h3>
-    A Software Engineer specializing in building production-grade, AI-driven systems.
-  </h3>
-<!--   <a href="https://www.linkedin.com/in/kunal-pal-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-   <a href="mailto:kunal.pal.dev@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a> -->
-  <a href="https://kunalpalportfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+## Hi there, I'm Kunal Pal (he/him) 👋
 
----
-
-### 👨‍💻 About Me
-
-I'm a recent Computer Science graduate with a passion for moving beyond academic theory and building tangible, production-ready software. My core focus is on the intersection of **full-stack development and artificial intelligence**, where I enjoy architecting complex systems, integrating diverse third-party services, and tackling the unique challenges of deploying modern AI workloads.
-
-- 🤖 I love designing and building **AI-powered agentic systems** from scratch.
-- ☁️ I have hands-on experience deploying compute-intensive tasks on **serverless GPU infrastructure** (Modal).
-- 🛠️ I'm passionate about the entire development lifecycle, from ideation and architecture to deployment and monitoring.
-
----
-
-### 🛠️ My Tech Stack
-
-Here are the technologies I work with regularly.
-
-#### Frontend
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-  <a href="https://trpc.io/" target="_blank"><img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white"></a>
+<p align="center">
+  <a href="https://kunalpalportfolio.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="https://x.com/intent/follow?screen_name=kunalpal0&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/extwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/000-KunalPal" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-#### Backend & Databases
-<p align="left">
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  <a href="https://neon.tech/" target="_blank"><img src="https://img.shields.io/badge/Neon-00E5A3?style=for-the-badge&logo=neon&logoColor=black"></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"></a>
-  <a href="https://orm.drizzle.team/" target="_blank"><img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"></a>
+I'm a Solo Founder - Full-Stack Engineer - AI SaaS Builder using AI. All opinions are my own.
+
+After graduating in 2023 with a Computer Science degree from University of Delhi, I set out to build and scale innovative SaaS products. I'm passionate about architecting sophisticated, AI-driven platforms that solve real-world problems. I thrive on delivering high-performance, intuitive applications and embrace modern agentic architectures, cloud-native DevOps, and secure backend systems.
+
+My passion is making Production grade SaaS and using ai to supercharge apps.
+
+### My work
+
+I'd like to highlight a few notable projects:
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📦 Projects</b></td>
+      <td><b>📜 Language</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🔀 Forks</b></td>
+      <td><b>ℹ️ Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/000-KunalPal/supportly-2025"><b>👩‍🏫 Supportly</b></a> — AI-Powered Customer Support Platform</td>
+      <td><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/000-KunalPal/sidekick"><b>👩‍🏫 Sidekick</b></a> — An intelligent development platform that transforms natural language descriptions into fully functional applications and websites. Built with modern technologies and AI-powered code generation, it enables both developers and non-technical users to create production-ready apps in minutes.</td>
+      <td><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/000-KunalPal/GenoMind"><b>👩‍🏫 GenoMind</b></a> — An AI-powered web app for pathogenic variant prediction using LLMs, GPU-accelerated FastAPI backend, and real-world bioinformatics integration.</td>
+      <td><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/000-KunalPal/IntelliMeet"><b>👩‍🏫 IntelliMeet</b></a> — AI-powered video communication with real-time agent assistance, automated summaries, and interactive post-call analysis.</td>
+      <td><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/000-KunalPal/supportly-2025?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/chshersh) <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/000-KunalPal" /></a>
+
+You can also find me on other social media:
+
+* [🔊 𝕏](https://x.com/kunalpal0)
+
+### My toolbox
+
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Convex" src="https://img.shields.io/badge/Convex-5C3DF6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNWMzZGY2IiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxlbGxpcHNlIGZpbGw9IiM1YzNkZjYiIGN4PSIxMCIgY3k9IjEwIiByeD0iMTAiIHJ5PSIxMCIvPjwvc3ZnPg==" />
+  <img alt="Inngest" src="https://img.shields.io/badge/Inngest-000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDBhNWYyIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTAiIHI9IjgiLz48L3N2Zz4=" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Modal" src="https://img.shields.io/badge/Modal-1854f7?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMTg1NGY3IiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTAiIHI9IjgiLz48L3N2Zz4=" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle_ORM-222?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnklEQVQ4T62S7UtCURCGvxEoJQosyAlHCioQhCCLpIIEhU4jUkgo8wGgiIwiqXAcQhSYiEQTi4Hd+HnuTtMTrcSXDZ99f7nn/5zj3XfxZRSBCIAG3//iQRAAQA0k8QoPAAHltVDwHiu+PxR9Y8TEWA608eTTtCxx8QnjwIpRoI5mMlAKw8C9L4GxIkgiJ8HyvDIP1YgIlc8TTz2AAtFhQjQF7gEKvAJa+zvm0ICadASqgD1XKopgBq4gcszhgUwdJRGRAO1gM1EJRxpQ2X6gAFwAwb0+UZ3KObvCjMi4KHbXcBe+PNvAeL5YNSZqQ37A5NBrHdlxVRAe7wLwqwZsgn4DsAVTtwidYcg2l3rJMdbOHSKU+o0XXHwZx4Lb6DHAFI/KAQPLAZUllAtE7i/uWYOvlGKDhB6gYMOS5ERUQvSwpxLMzpjwjI4nNIxZ8V4BKjWGUw6HF1GlZxTdRUs5qPzpkJw1nulaHf048EgAAAABJRU5ErkJggg==" />
+  <img alt="Clerk" src="https://img.shields.io/badge/Clerk-0057FF?style=flat-square&logo=clerk&logoColor=white" />
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="AISDK" src="https://img.shields.io/badge/AISDK-0A5FFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMGE1ZmZmIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTAiIHI9IjgiLz48L3N2Zz4=" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-34a853?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzRhODUzIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTAiIHI9IjgiLz48L3N2Zz4=" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-fcb900?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmNiOTAwIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTAiIHI9IjgiLz48L3N2Zz4=" />
 </p>
-
-#### AI, DevOps & Cloud
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-  <a href="https://modal.com/" target="_blank"><img src="https://img.shields.io/badge/Modal-5263FF?style=for-the-badge&logo=modal&logoColor=white"></a>
-  <a href="https://www.inngest.com/" target="_blank"><img src="https://img.shields.io/badge/Inngest-F8472E?style=for-the-badge&logo=inngest&logoColor=white"></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"></a>
-  <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
----
-
-### ✨ Featured Projects
-
-Here are some of the projects I have build.
-
-<details>
-  <summary><b>🚀 ForgeFlow - AI Agent-Powered Application Builder</b></summary>
-  
-  <br>
-  An advanced platform that uses AI agents to autonomously generate, build, and deploy full web applications in secure cloud sandboxes.
-  
-  - **Key Features:** Architected an event-driven system with **Inngest** to orchestrate AI agents; engineered a secure build pipeline using **E2B cloud sandboxes & Docker**; implemented a full SaaS feature set including auth and billing with **Clerk**.
-  - **Live Demo:** `[Link to your live demo]`
-  - **Repository:** `[Link to your GitHub repo]`
-  
-  <p align="left">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white">
-    <img src="https://img.shields.io/badge/Inngest-F8472E?style=for-the-badge&logo=inngest&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-    <img src="https://img.shields.io/badge/Neon-00E5A3?style=for-the-badge&logo=neon&logoColor=black">
-  </p>
-</details>
-
-<details>
-  <summary><b>🧬 GenoMind - AI-Powered Genomic Variant Classifier</b></summary>
-  
-  <br>
-  A specialized biotech web app that leverages a state-of-the-art LLM on serverless H100 GPUs to predict the pathogenicity of genetic mutations.
-  
-  - **Key Features:** Deployed a high-performance **FastAPI** backend on **Modal's serverless H100 GPU** infrastructure; integrated with **NCBI/UCSC** APIs for real-world data validation; built a comparative engine to test AI predictions against ClinVar classifications.
-  - **Live Demo:** `[Link to your live demo]`
-  - **Repository:** `[Link to your GitHub repo]`
-  
-  <p align="left">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Modal-5263FF?style=for-the-badge&logo=modal&logoColor=white">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </p>
-</details>
-
----
-
-### 🌱 Open Source Contributions
-
-I believe in the power of community and enjoy contributing to open-source projects.
-
-- **vercel/next-forge:** Actively engaged in the development lifecycle by identifying an area for improvement, forking the repository, and submitting a pull request to enhance documentation clarity, which was successfully merged. `https://github.com/vercel/next-forge/pull/205`
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000-KunalPal&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="Kunal's Top Languages"/>
-</div>
